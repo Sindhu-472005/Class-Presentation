@@ -1,21 +1,36 @@
 # Class-Presentation
-Topic - Linux Operating System
+**Topic - Linux Operating System**
 
-About Linux
+**About Linux**
 
 Linux is an operating system, created in 1991 by Linus Torvalds. Started as a hobby not as innovation.It is a open sourcee and free for everyone to use.
 
 
-Why Linux?
+**Why Linux?**
 
 It is an engine, that powers the basic functions of a computer. Since its free and open source users don't have to pay for customize it anyone can view and modify it to meet their specific needs and can distribute it. Linus is a community driven operating systeem so it provides regular updates and assistance and evolves continuously.
 
 
+**Key difference between Linux and windows**
+
+**Linux**
+
+* Free open source don't have to pay
+* Community developed
+* Full user control
+* Better privacy options
+* Have higher learning curve but more powerful once mastered
+
+ **Windows**
+
+ * Its paid
+ * Developed by microsoft
+ * Microsoft controls software
+ * Limited privacy
+ * Beginner friendly. 
 
 
-
-
-Linus architecture
+**Linus architecture**
 
 User -- Shell -- Kernel -- Hardware
 
@@ -29,7 +44,7 @@ The kernel virtualizes the computer’s common hardware resources to provide eac
 
 The kernel, if implemented properly, is invisible to the user, working in its own little world known as kernel space, where it allocates memory and keeps track of where everything is stored. What the user sees—like web browsers and files—are known as the user space. These applications interact with the kernel through a system call interface (SCI).
 
-The kernel has 4 jobs:
+**The kernel has 4 jobs:**
 
 1. Memory management -- tracking how much memory is consumed to stre what and where its stored.
 
